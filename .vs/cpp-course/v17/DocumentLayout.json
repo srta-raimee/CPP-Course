@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Projects\\cpp-course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|D:\\Documents\\Projects\\cpp-course\\CPP-Course\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|solutionrelative:CPP-Course\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|D:\\Documents\\Projects\\cpp-course\\CPP-Course\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|solutionrelative:CPP-Course\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|D:\\Documents\\Projects\\cpp-course\\CPP-Course\\linkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|solutionrelative:CPP-Course\\linkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|D:\\Documents\\Projects\\cpp-course\\CPP-Course\\doubleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BE3A4DD-0789-4475-8F5D-13682F8A8059}|CPP-Course\\CPP-Course.vcxproj|solutionrelative:CPP-Course\\doubleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\queue.cpp",
+              "RelativeDocumentMoniker": "CPP-Course\\queue.cpp",
+              "ToolTip": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\queue.cpp",
+              "RelativeToolTip": "CPP-Course\\queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T20:35:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\stack.cpp",
+              "RelativeDocumentMoniker": "CPP-Course\\stack.cpp",
+              "ToolTip": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\stack.cpp",
+              "RelativeToolTip": "CPP-Course\\stack.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T22:41:12.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "doubleLinkedList.cpp",
+              "DocumentMoniker": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\doubleLinkedList.cpp",
+              "RelativeDocumentMoniker": "CPP-Course\\doubleLinkedList.cpp",
+              "ToolTip": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\doubleLinkedList.cpp",
+              "RelativeToolTip": "CPP-Course\\doubleLinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T16:14:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "linkedList.cpp",
+              "DocumentMoniker": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\linkedList.cpp",
+              "RelativeDocumentMoniker": "CPP-Course\\linkedList.cpp",
+              "ToolTip": "D:\\Documents\\Projects\\cpp-course\\CPP-Course\\linkedList.cpp",
+              "RelativeToolTip": "CPP-Course\\linkedList.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T23:31:54.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
